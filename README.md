@@ -36,12 +36,12 @@ It simulates a secure login with credentials and a generated token, followed by 
 
 2. Navigate to the project folder:
    ```bash
-cd online-banking
+   cd online-banking
 
 3. Compile and run the main class:
    ```bash
-javac start/Menu.java
-java start.Menu
+   javac start/Menu.java
+   java start.Menu
 
 Or open the project in Eclipse or VS Code and run Menu.java as a Java Application.
 
