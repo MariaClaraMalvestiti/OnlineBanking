@@ -63,5 +63,6 @@ María Clara Malvestiti
 📍 Argentina
 🎓 Junior Java Developer | Student of Systems Analysis
 
-📧 malves.clara9@gmail.com
-💼 LinkedIn
+📧 malves.clara9@gmail.com 
+
+💼 LinkedIn: https://www.linkedin.com/in/maria-clara-malvestiti/
